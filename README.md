@@ -1,6 +1,6 @@
 # STJU_TakeCourse
 上海交通大学研究生抢课脚本
-
+JS代码在take_course.js中
 
 
 ## 使用方法
